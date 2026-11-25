@@ -25,7 +25,7 @@ targets:
       - sdk: ActivityKit.framework
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: dev.example.islanddemo
+        PRODUCT_BUNDLE_IDENTIFIER: com.xiaoqi.island
         GENERATE_INFOPLIST_FILE: NO
     info:
       path: App/Info.plist
@@ -60,7 +60,7 @@ targets:
       - sdk: ActivityKit.framework
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: dev.example.islanddemo.island
+        PRODUCT_BUNDLE_IDENTIFIER: com.xiaoqi.island.island
         GENERATE_INFOPLIST_FILE: NO
     info:
       path: Island/Info.plist
